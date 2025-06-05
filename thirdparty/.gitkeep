@@ -1,0 +1,2 @@
+# This file ensures the thirdparty directory is tracked by git
+# Place your third-party libraries (OpenVINO, OpenCV) here 
