@@ -186,15 +186,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OpenVINO](https://github.com/openvinotoolkit/openvino) - Intel's inference optimization toolkit
 - [OpenCV](https://opencv.org/) - Computer vision library
 
-## Citation
 
-If you use this project in your research, please cite:
-
-```bibtex
-@software{rtmpose_openvino,
-  title={RTMPose OpenVINO Implementation},
-  author={Developer Name},
-  year={2024},
-  url={https://github.com/your-username/RTMpose_openvino}
-}
-``` 
